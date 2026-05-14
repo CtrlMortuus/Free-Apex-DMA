@@ -22,7 +22,7 @@
     > View upcoming features here:
       https://mortuus.xyz
 
-![menu-CeRABSLp](https://github.com/user-attachments/assets/3683dff8-20c9-4e18-a452-239f41d1136e)
+![menu-CeRABSLp](https://i.imgur.com/uUAbz2I.png)
 
 |
                      System Requirements
