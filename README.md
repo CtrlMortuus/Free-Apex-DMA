@@ -37,6 +37,6 @@
 =
 
     > Join the Discord for updates, support, and feedback:
-      https://discord.com/invite/Xdk6funVab 
+      https://discord.gg/EwcsJrVuXv 
 
 
